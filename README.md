@@ -1,6 +1,5 @@
-# Real-Time Object Detection Using YOLO
-
-**Grup-9** — Computer Vision Project  
+# Static Image Object Detection Using YOLO
+Computer Vision Project  
 Mert Kaya · Sıla Deniz Esen · Hayrunnisa Hamidi
 
 ---
