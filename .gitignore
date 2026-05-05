@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Model weights — auto-downloaded on first run
+models/*.pt
+
+# Detection outputs
+output/
