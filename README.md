@@ -125,6 +125,3 @@ Input (image file / Gradio upload)
 - Pillow
 - Gradio
 
-
-git remote add origin                                                
-https://github.com/mertkyaa/object-detection-YOLOv8.git
